@@ -13,6 +13,7 @@ A modern and performance-focused Lua project built with usability and customizat
 
 ## Why UnnamedHook?
 "do not choose us"
+
 UnnamedHook is designed to provide a streamlined experience with a focus on reliability, speed, and customization. Every feature is built to be intuitive while maintaining maximum flexibility for users.
 
 ## Status
@@ -23,3 +24,7 @@ UnnamedHook is designed to provide a streamlined experience with a focus on reli
 
 This project is provided for my own game. Users are responsible for complying with all applicable rules, terms of service, and local regulations.
 This shit is detected (for now)
+
+
+ChatGPT ReadMe.md bc im too bored to write it✌️
+To the guy that said ts vibecoded its not brah✌️✌️
